@@ -2,7 +2,8 @@
 
 I created this website using both Markdown and HTML and hopefully it works well.
 
-- Bulleted
+1. Here you will find a breif history on [me](docafro.github.io/bio.md)
+2. This page has random assorted topics from wikipedia however the first article is on the History on the [internet](docafro.github.io/topic.md)
 - List
 
 1. Numbered
@@ -13,12 +14,3 @@ I created this website using both Markdown and HTML and hopefully it works well.
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DocAfro/DocAfro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
