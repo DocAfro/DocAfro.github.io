@@ -14,4 +14,5 @@ With that being said I present to you my [resume](file:///Users/davidgriffith/Do
 
 [LinkedIn](www.linkedin.com/in/DavidDocAfroGriffith)
 
+[Home](docafro.github.io/index)
 
