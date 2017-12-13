@@ -1,4 +1,9 @@
 #Bio
+
+
+
+
+
 The essential basic jist of myself can be explained in two words.
 I'm Awesome
 
