@@ -11,6 +11,6 @@ I created this website using both Markdown and HTML and hopefully it works well.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://orig00.deviantart.net/6001/f/2013/071/3/8/deadpool_vs_space_marine_by_natelyon-d5xtiv6.jpg)
 ```
 
